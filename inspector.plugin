@@ -1,0 +1,12 @@
+[Plugin]
+Module=inspector
+Loader=python3
+IAge=2
+Name=Webkit2 Inspector
+Version=0.1
+Description=Launch Webkit2 inspector using F12 in any HTML view.
+Authors=Mozbugbox <mozbugbox@yahoo.com.au>
+Copyright=Copyright © 2014-2015 Mozbugbox <mozbugbox@yahoo.com.au>
+Website=http://lzone.de/liferea/
+Help=http://lzone.de/liferea/
+
