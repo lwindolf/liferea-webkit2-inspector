@@ -22,9 +22,9 @@
 # Boston, MA 02111-1307, USA.
 #
 
-import os
-import io
-import sys
+import os, io, sys, gi
+
+gi.require_version('WebKit2', '4.0')
 
 from gi.repository import GObject, Gtk, Gdk, PeasGtk, Liferea
 from gi.repository import WebKit2
